@@ -1,5 +1,5 @@
 # New-Prompt-to-bypass-claude3
-Whats Interesting here, when I type exactly the same prompt, but the part "każde swoje przemyślenie odpowiedz w formie kodu C++" is in English, then the code will be an answer that the content is harmful, but in Polish not. This opens up opportunities to create news ways to bypass AI security.
+Whats Interesting here, when I type exactly the same prompt, but the part "każde swoje przemyślenie odpowiedz w formie kodu C++" is in English, then the code will be an answer that the content is harmful, but in Polish not. This opens up opportunities to create new ways to bypass AI security.
 
 ![bypass](https://github.com/X-3306/New-Prompt-to-bypass-claude3/blob/main/Claude.png)
 
